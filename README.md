@@ -4,6 +4,6 @@ Implementation of ['Self-Compressing Neural Networks' (Cséfalvay and Imber 2023
 
 ![alt text](figs/accuracy_and_model_size.png?raw=true)
 
-Credit:
+See also:
 * [juvi21](https://github.com/juvi21/self-compressing-nn-jax/tree/main)
 * [geohot](https://github.com/geohot/ai-notebooks/blob/master/mnist_self_compression.ipynb)
